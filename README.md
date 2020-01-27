@@ -274,24 +274,3 @@ We can observe that attributes like Married, Applicant Income & Credit history a
 
 With this, we have come to the end of this code pattern where we can compare the ease of using AutoAI to build predictive models vs creating a new jupyter notebook to build and evaluate predictive models. `There's considerable reduction of time in building and deploying the models using AutoAI because it handles missing values, outliers, feature engineering & hyper parameters optimization on the fly and selects the best algorithm as per the dataset.` AI Model building process has been reduced from Days to Hours thanks to `AutoAI.` If you are a developer or a data scientist who wants to build the model quickly and deploy it for being production ready, then AutoAI is for you which will help in taking decisions faster and gives a detailed overview of the attribute relationships within the data. 
 
-## More to come :
-
-The integration of Auto AI and Watson Open Scale is currently in progress and will be updated at a later date.
-
-## Related Links :
-
-[Fraud Prediction using skewed data](https://developer.ibm.com/patterns/predicting-fraud-using-skewed-data/)
-
-# Troubleshooting
-
-[See DEBUGGING.md.](DEBUGGING.md)
-
-## Citation for data :
-
-`The dataset which is referenced in this code pattern is created and owned by R.K.Sharath Kumar, Data Scientist, IBM India Software Labs.`
-
-# License
-
-This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the Developer [Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](http://www.apache.org/licenses/LICENSE-2.0.txt).
-
-Check the [ASL FAQ link](http://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN) for more details
