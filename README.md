@@ -206,7 +206,7 @@ Follow the below steps to use Jupyter Notebook for building the model. This is t
 * Select the `From URL` tab.
 * Enter a name for the notebook.
 * Optionally, enter a description for the notebook.
-* Enter this Notebook URL: https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/notebook/Fraud_Detect.ipynb
+* Enter this Notebook URL: https://github.com/Tanutk/IBM-Watson-Studio-Open-Scale-Workshop-on-Jan-28-29-2020/blob/master/Fraud%20Detection%20-%20Tanut.ipynb
 * Select the runtime (8 vCPU and 32GB RAM)
 * Click the `Create` button.
 
